@@ -1,4 +1,9 @@
-# Dashboard de Vendas Globais
+
+<p align="center">
+  <img src="capa.png" width="100%">
+</p>
+
+# Dashboard Análitico de Vendas Globais
 
 ## Sobre o Projeto
 Este projeto consiste em um dashboard analítico de vendas globais, desenvolvido com foco em prática e exploração de dados no Power BI.
